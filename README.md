@@ -170,7 +170,7 @@ Apply LSTM on real-world datasets
 
 # Author
 
-**Ram Kumar Singh**
+**Ram Kumar Singh** - **2501940002**
 
 GitHub
 https://github.com/Ram0kr0singh
