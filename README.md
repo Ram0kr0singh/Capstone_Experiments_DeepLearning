@@ -129,6 +129,8 @@ Matplotlib	Visualization
 Scikit-learn	Dataset + preprocessing
 Installation
 
+---
+
 Install dependencies before running notebooks:
 
 pip install tensorflow numpy matplotlib scikit-learn
