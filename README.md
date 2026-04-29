@@ -15,6 +15,9 @@ Capstone_Experiments_DeepLearning/
 ├── Experiment_2.ipynb   # CNN – Fashion MNIST Classification
 ├── Experiment_3.ipynb   # LSTM – Time Series Prediction
 └── README.md
+
+---
+
 # Experiment 1: Feedforward Neural Network (FNN)
 Objective
 
@@ -45,6 +48,8 @@ Output
 Accuracy vs Epoch graph
 Loss vs Epoch graph
 Classification performance evaluation
+
+---
 
 # Experiment 2: Convolutional Neural Network (CNN)
 Objective
@@ -86,6 +91,8 @@ Output
 Training accuracy graph
 Validation accuracy graph
 Loss vs Epoch graph
+
+---
 
 # Experiment 3: LSTM for Time-Series Prediction
 Objective
@@ -156,3 +163,17 @@ Add model evaluation metrics (Precision, Recall, F1-score)
 Add a confusion matrix visualization
 Train a CNN with data augmentation
 Apply LSTM on real-world datasets
+
+---
+
+# Author
+
+**Ram Kumar Singh**
+
+GitHub
+https://github.com/Ram0kr0singh
+
+LinkedIn
+https://www.linkedin.com/in/ram-kumar-singh-516a283a9/
+
+---
